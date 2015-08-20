@@ -1,0 +1,70 @@
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Form1.resources
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.vbproj.GenerateResource.Cache
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+C:\Users\Ali Asghar\Documents\year 1 degree computer networks and security\visual programming project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.vbproj.GenerateResource.Cache
+E:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmMainView.resources
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmMainView.resources
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmMainView.resources
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmMainView.resources
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+F:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.vbproj.GenerateResource.Cache
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.exe
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.xml
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.pdb
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.exe
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.pdb
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\bin\Debug\qwikreply project.xml
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmMainView.resources
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmContactList.resources
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.frmSettings.resources
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply_project.Resources.resources
+H:\year 1 degree computer networks and security\visual programming\qwikreply project\qwikreply project\qwikreply project\obj\x86\Debug\qwikreply project.vbproj.GenerateResource.Cache
